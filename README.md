@@ -1,4 +1,4 @@
-# Vinicius Duarte Koch 
+# Vinicius Duarte
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/vanessakoch)](https://github.com/ViniciusMDuarte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/viniciusmduarte//)](https://www.linkedin.com/in/vanessa-ribeiro-koch-134792b8/)
@@ -13,4 +13,4 @@ Sou estudando de programação, e busco aprendizado constante em Javascript  �
 -  ⚡ Languages: JavaScript, Node.
 
 ---
-Made with 💜 by [Vinicius Koch](https://github.com/ViniciusMDuarte)
+Made with 💜 by [Vinicius](https://github.com/ViniciusMDuarte)
