@@ -6,11 +6,13 @@
 
 
 ## Sejam bem vindos ao meu Repositório de projetos!  <br />
-Sou estudante de programação, e busco aprendizado constante em Javascript e tudo que envolve ela ... 👨‍💻 
 
-- 🔭 Atualmente faço trabalhos em WordPress como freelancer e estudo diariamente no bootcamp LaunchBase da Rocketseat Rocketseat 🚀🚀🚀
+Dev. Front end Javascript e tudo que envolve ele ... 👨‍💻 
 
--  ⚡ Languages: JavaScript, Node.Js
+- 🔭 Atualmente faço trabalhos como freelancer com reprodução de Layouts e CMS Wordpress e estudo diariamente no bootcamp LaunchBase da Rocketseat 🚀🚀🚀
+
+-  ⚡ Skills: HML5,CSS3, JavaScript, Node.Js e futuramente Reacts.
+-  ⚡ Soft Skills: Trabalho em equipe, perfil comunicador.
 
 ---
 Talk to me ⚡ [Vinicius](https://github.com/ViniciusMDuarte)
